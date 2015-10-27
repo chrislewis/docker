@@ -1,0 +1,9 @@
+sbt:1.5
+slack:1.8
+
+# GitHub + dependencies
+plain-credentials:1.1
+git:2.4.0
+credentials:1.24
+github-api:1.69
+github:1.14.0
